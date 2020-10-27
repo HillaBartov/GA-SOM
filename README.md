@@ -1,5 +1,5 @@
 # GA-SOM
-Algorithm for Self Organizing Map, using neurons network principles.
+Genetic Algorithm for Self Organizing Map, using neurons network principles.
 
 Run Insturctions:
 1. Download SOM.jar
